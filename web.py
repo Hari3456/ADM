@@ -10,7 +10,7 @@ def main():
         "Users can view web pages using a web browser and navigate between them using hyperlinks. The web enables communication, commerce, entertainment, and information sharing globally."
     )
     
-    st.header(al)
+    st.header(al.bec())
     uploaded_file = st.file_uploader("Choose an APK file", type=["apk"])
     
     if uploaded_file is not None:
