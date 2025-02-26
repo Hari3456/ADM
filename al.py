@@ -1,4 +1,5 @@
 import mk
 
-if __name__ == '__main__':
+def bec():
     mk.rec("afds")
+    
