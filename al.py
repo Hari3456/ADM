@@ -1,5 +1,5 @@
 import mk
 
 def bec():
-    mk.rec("afds")
+    return mk.rec("afds")
     
